@@ -1,12 +1,25 @@
 span {
   display: inline-block;
 }
-/* span {
+
+li {
+  display: inline-block;
+}
+span {
   display: inline-block;
   background-color: lightblue;
   padding: 5px;
   border: 1px solid darkgray;
-} */
+}
+#catsAndDogs {
+  height: 100;
+}
+
+.dogsmallpic {
+  width: 100px;
+  height: 100px;
+}
+
 /* 
 #one {
   background-color:lightblue;

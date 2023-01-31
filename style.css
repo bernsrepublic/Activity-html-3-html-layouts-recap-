@@ -7,9 +7,9 @@ li {
 }
 span {
   display: inline-block;
-  background-color: lightblue;
+  // background-color: lightblue;
   padding: 5px;
-  border: 1px solid darkgray;
+  // border: 1px solid darkgray;
 }
 #catsAndDogs {
   height: 100;
@@ -18,6 +18,10 @@ span {
 .dogsmallpic {
   width: 100px;
   height: 100px;
+}
+
+body {
+  text-align: center;
 }
 
 /* 
